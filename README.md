@@ -1,4 +1,4 @@
-Philippine Regions, Provinces and Cities
+Philippine (Regions,) Provinces and Cities
 ===============================
 
 This is a fork of [https://github.com/ojtibi/philippine-provinces-and-cities-sql](https://github.com/ojtibi/philippine-provinces-and-cities-sql)
